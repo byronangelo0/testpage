@@ -32,4 +32,3 @@ page/.git/ADD_EDIT.patch"
     If you did this already, delete the swap file "/c/xampp/htdocs/testpage/test
 page/.git/.ADD_EDIT.patch.swp"
     to avoid this message.
- -->
